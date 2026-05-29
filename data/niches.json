@@ -1,22 +1,22 @@
 {
     "domain": "meat.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "소고기",
+        "돼지고기",
+        "가공육"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang meat items."
+        "소고기": {
+            "topic": "Beef steak, ribeye, brisket, bulgogi.",
+            "role": "Premium meat expert."
         },
-        "수유/이유식": {
-            "topic": "meat bottle sterilizers, meat food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "돼지고기": {
+            "topic": "Pork belly, pork shoulder, ribs.",
+            "role": "Pork quality reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "가공육": {
+            "topic": "Sausages, bacon, ham, jerky.",
+            "role": "Processed meat curator."
         }
     }
 }
