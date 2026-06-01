@@ -5,7 +5,7 @@
 # 1. 사이트 기본 식별 정보
 baseURL = 'https://meat.gggpick.com/'
 languageCode = 'ko-kr'
-title = 'GGG Pick meat'
+title = 'GGG Pick 육류고기'
 
 [params]
   # 2. 쿠팡 파트너스 전용 데이터
@@ -16,7 +16,7 @@ title = 'GGG Pick meat'
   homepage_sections = ["posts"]
   
   # 3. 사이트 설명 및 브랜딩
-  description = 'meat 관련 전문가 리뷰와 쿠팡 최저가 완벽 가이드.'
+  description = '소고기, 돼지고기, 가공육 등 신선하고 맛있는 로켓프레시 육류/정육 관련 쿠팡 로켓배송 추천 및 전문가 리뷰.'
   brandColor = "#1a1c2c"
 
   # (공통) 애드센스 정보 및 메타 데이터
@@ -25,7 +25,7 @@ title = 'GGG Pick meat'
   env = 'production'
 
   # 🚨 사이트 식별 정보
-  sitename = "GGG Pick meat"
+  sitename = "GGG Pick 육류고기"
   siteurl = "https://meat.gggpick.com"
   startdate = "2026-03-31"
   contactemail = "contact@gggpick.com"
