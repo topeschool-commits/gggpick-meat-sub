@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meat.gggpick.com/sitemap.xml
